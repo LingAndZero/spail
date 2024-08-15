@@ -1,24 +1,25 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: 常志豪
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zhihao
+last_name: Chang
+id: 3
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 常志豪
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Zhejiang University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,10 +71,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Teachers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently I am a ZJU 100 Young Professor (百人计划研究员) in the School of Software Technology, Zhejiang University (ZJU). I obtained my PhD in the College of Computer Science and Technology at ZJU in 2024, supervised by Prof. Shuiguang Deng (国家杰青、浙大求是特聘学者). From Sep. 2022 to Sep. 2023, I was a visiting research scholar of PDCL Lab, Nanyang Technological University (NTU), very luckily to be advised by Prof. Xueyan Tang. I am fortunate to work with Prof. Zomaya (IEEE Fellow) at University of Sydney, Australia and Prof. Dustdar (IEEE Fellow) at TU Wien, Austria.
